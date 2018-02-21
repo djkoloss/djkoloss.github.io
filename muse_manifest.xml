@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bbjuice.ru" resolutions="1x" timestamp="1519211090835">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bbjuice.ru" resolutions="1x" timestamp="1519218139414">
   <folder name="css">
     <file name="site_global.css" crc="3945628538"/>
-    <file name="index.css" crc="4293663909" ref="index"/>
-    <file name="nomq_index.css" crc="11917199" ref="index"/>
+    <file name="index.css" crc="360581934" ref="index"/>
+    <file name="nomq_index.css" crc="471846954" ref="index"/>
     <file name="iefonts_index.css" crc="4108818452" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -15,14 +15,13 @@
     <file name="form_check.php" crc="147359589" ref="index"/>
     <file name="form_throttle.php" crc="93986428" ref="index"/>
     <file name="form_process.php" crc="3851993751" ref="index"/>
-    <file name="form-u3407.php" crc="3831885860" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="form-u4820.php" crc="4022193883" ref="index"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="form-u16620.php" crc="4215150047" ref="index"/>
   </folder>
   <folder name="images">
     <file name="vsevkusi.png" crc="282244661" seo="true" ref="index">
@@ -95,24 +94,6 @@
     </file>
     <file name="warning_poster_.png" crc="126922869" ref="index"/>
     <file name="u4150-11.png" crc="186152264" ref="index"/>
-    <file name="u3404-4.png" crc="3928187735" ref="index"/>
-    <file name="вставленные-svg-93857x114.svg" crc="389365795" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="вставленные svg 93857x114_poster_.png" crc="4247841729" ref="index"/>
     <file name="hw8mnqcedae.jpg" crc="4189187831" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -176,21 +157,12 @@
     </file>
     <file name="instagram-logo_poster_.png" crc="4024130849" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u4831.png" crc="3829066601" ref="index"/>
-    <file name="u4831-r.png" crc="220137049" ref="index"/>
-    <file name="u4837-4.png" crc="253766408" ref="index"/>
-    <file name="u4817-6.png" crc="4085483497" ref="index"/>
     <file name="u242-72.png" crc="3855187652" ref="index"/>
     <file name="u469-122.png" crc="4003238689" ref="index"/>
     <file name="u543-132.png" crc="4224906343" ref="index"/>
     <file name="u911-132.png" crc="383875194" ref="index"/>
     <file name="u4779-72.png" crc="4162969336" ref="index"/>
     <file name="u4150-112.png" crc="345339846" ref="index"/>
-    <file name="u3404-42.png" crc="3928187735" ref="index"/>
-    <file name="u48312.png" crc="3829066601" ref="index"/>
-    <file name="u4831-r2.png" crc="220137049" ref="index"/>
-    <file name="u4837-42.png" crc="253766408" ref="index"/>
-    <file name="u4817-62.png" crc="4085483497" ref="index"/>
     <file name="u242-73.png" crc="4152168169" ref="index"/>
     <file name="u469-123.png" crc="536670514" ref="index"/>
     <file name="u543-133.png" crc="276229407" ref="index"/>
@@ -217,33 +189,18 @@
     </file>
     <file name="u4779-73.png" crc="107154479" ref="index"/>
     <file name="u4150-113.png" crc="4120946656" ref="index"/>
-    <file name="u3404-43.png" crc="3928187735" ref="index"/>
-    <file name="u48313.png" crc="3829066601" ref="index"/>
-    <file name="u4831-r3.png" crc="220137049" ref="index"/>
-    <file name="u4837-43.png" crc="253766408" ref="index"/>
-    <file name="u4817-63.png" crc="4085483497" ref="index"/>
     <file name="u242-74.png" crc="4152168169" ref="index"/>
     <file name="u469-124.png" crc="3922022317" ref="index"/>
     <file name="u543-134.png" crc="4026046502" ref="index"/>
     <file name="u911-134.png" crc="134663944" ref="index"/>
     <file name="u4779-74.png" crc="3871316756" ref="index"/>
     <file name="u4150-114.png" crc="4246395320" ref="index"/>
-    <file name="u3404-44.png" crc="3928187735" ref="index"/>
-    <file name="u48314.png" crc="3829066601" ref="index"/>
-    <file name="u4831-r4.png" crc="220137049" ref="index"/>
-    <file name="u4837-44.png" crc="253766408" ref="index"/>
-    <file name="u4817-64.png" crc="4085483497" ref="index"/>
-    <file name="u48315.png" crc="3829066601" ref="index"/>
-    <file name="u4831-r5.png" crc="220137049" ref="index"/>
-    <file name="u4837-45.png" crc="253766408" ref="index"/>
-    <file name="u4817-65.png" crc="4085483497" ref="index"/>
     <file name="u242-75.png" crc="4152168169" ref="index"/>
     <file name="u469-125.png" crc="536670514" ref="index"/>
     <file name="u543-135.png" crc="276229407" ref="index"/>
     <file name="u911-135.png" crc="27347732" ref="index"/>
     <file name="u4779-75.png" crc="4176688791" ref="index"/>
     <file name="u4150-115.png" crc="3849079704" ref="index"/>
-    <file name="u3404-45.png" crc="3928187735" ref="index"/>
     <file name="vsevkusi439x292.png" crc="75877130" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -283,11 +240,6 @@
     </file>
     <file name="u4779-76.png" crc="3873502938" ref="index"/>
     <file name="u4150-116.png" crc="120594762" ref="index"/>
-    <file name="u3404-46.png" crc="387302001" ref="index"/>
-    <file name="u48316.png" crc="3829066601" ref="index"/>
-    <file name="u4831-r6.png" crc="220137049" ref="index"/>
-    <file name="u4837-46.png" crc="253766408" ref="index"/>
-    <file name="u4817-66.png" crc="4085483497" ref="index"/>
     <file name="u242-77.png" crc="532487291" ref="index"/>
     <file name="watermelon-crop-u9882.png" crc="3870219749" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -324,11 +276,6 @@
     </file>
     <file name="u4779-77.png" crc="4125166431" ref="index"/>
     <file name="u4150-117.png" crc="4226521315" ref="index"/>
-    <file name="u3404-47.png" crc="387302001" ref="index"/>
-    <file name="u48317.png" crc="3829066601" ref="index"/>
-    <file name="u4831-r7.png" crc="220137049" ref="index"/>
-    <file name="u4837-47.png" crc="4217431083" ref="index"/>
-    <file name="u4817-67.png" crc="277253960" ref="index"/>
   </folder>
-  <file name="index.html" crc="4223304364" seo="true" mt="1519210905986" redirect="true"/>
+  <file name="index.html" crc="4229005907" seo="true" mt="1519218109559" redirect="true"/>
 </manifest>
