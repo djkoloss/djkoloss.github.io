@@ -1,0 +1,334 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bbjuice.ru" resolutions="1x" timestamp="1519211090835">
+  <folder name="css">
+    <file name="site_global.css" crc="3945628538"/>
+    <file name="index.css" crc="4293663909" ref="index"/>
+    <file name="nomq_index.css" crc="11917199" ref="index"/>
+    <file name="iefonts_index.css" crc="4108818452" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u3407.php" crc="3831885860" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="form-u4820.php" crc="4022193883" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="vsevkusi.png" crc="282244661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bomb-(1).svg" crc="4177867089" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bomb (1)_poster_.png" crc="4151296392" ref="index"/>
+    <file name="crown.svg" crc="394538820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crown_poster_.png" crc="4058427092" ref="index"/>
+    <file name="coin.svg" crc="220011003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coin_poster_.png" crc="323640959" ref="index"/>
+    <file name="u242-7.png" crc="3855187652" ref="index"/>
+    <file name="u469-12.png" crc="4003238689" ref="index"/>
+    <file name="u543-13.png" crc="4224906343" ref="index"/>
+    <file name="watermelon.png" crc="4131396525" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dulcetbake.png" crc="34887846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frusavory cider.png" crc="258270788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u911-13.png" crc="383875194" ref="index"/>
+    <file name="stawberry bubles.png" crc="165693696" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4779-7.png" crc="4108379197" ref="index"/>
+    <file name="warning.svg" crc="56303555" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="warning_poster_.png" crc="126922869" ref="index"/>
+    <file name="u4150-11.png" crc="186152264" ref="index"/>
+    <file name="u3404-4.png" crc="3928187735" ref="index"/>
+    <file name="вставленные-svg-93857x114.svg" crc="389365795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленные svg 93857x114_poster_.png" crc="4247841729" ref="index"/>
+    <file name="hw8mnqcedae.jpg" crc="4189187831" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="envelope.svg" crc="3917418728" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="envelope_poster_.png" crc="4238189390" ref="index"/>
+    <file name="phone-receiver.svg" crc="122832027" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone-receiver_poster_.png" crc="384390251" ref="index"/>
+    <file name="map-marker.svg" crc="3937420776" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="map-marker_poster_.png" crc="3966652416" ref="index"/>
+    <file name="bigboss_shapka.png" crc="272090097" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk-social-logotype.svg" crc="4252893645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk-social-logotype_poster_.png" crc="485333699" ref="index"/>
+    <file name="instagram-logo.svg" crc="318745358" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram-logo_poster_.png" crc="4024130849" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u4831.png" crc="3829066601" ref="index"/>
+    <file name="u4831-r.png" crc="220137049" ref="index"/>
+    <file name="u4837-4.png" crc="253766408" ref="index"/>
+    <file name="u4817-6.png" crc="4085483497" ref="index"/>
+    <file name="u242-72.png" crc="3855187652" ref="index"/>
+    <file name="u469-122.png" crc="4003238689" ref="index"/>
+    <file name="u543-132.png" crc="4224906343" ref="index"/>
+    <file name="u911-132.png" crc="383875194" ref="index"/>
+    <file name="u4779-72.png" crc="4162969336" ref="index"/>
+    <file name="u4150-112.png" crc="345339846" ref="index"/>
+    <file name="u3404-42.png" crc="3928187735" ref="index"/>
+    <file name="u48312.png" crc="3829066601" ref="index"/>
+    <file name="u4831-r2.png" crc="220137049" ref="index"/>
+    <file name="u4837-42.png" crc="253766408" ref="index"/>
+    <file name="u4817-62.png" crc="4085483497" ref="index"/>
+    <file name="u242-73.png" crc="4152168169" ref="index"/>
+    <file name="u469-123.png" crc="536670514" ref="index"/>
+    <file name="u543-133.png" crc="276229407" ref="index"/>
+    <file name="watermelon445x297.png" crc="3888299644" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dulcetbake445x297.png" crc="8282616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frusavory cider443x296.png" crc="516128461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u911-133.png" crc="27347732" ref="index"/>
+    <file name="stawberry bubles469x313.png" crc="266948362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4779-73.png" crc="107154479" ref="index"/>
+    <file name="u4150-113.png" crc="4120946656" ref="index"/>
+    <file name="u3404-43.png" crc="3928187735" ref="index"/>
+    <file name="u48313.png" crc="3829066601" ref="index"/>
+    <file name="u4831-r3.png" crc="220137049" ref="index"/>
+    <file name="u4837-43.png" crc="253766408" ref="index"/>
+    <file name="u4817-63.png" crc="4085483497" ref="index"/>
+    <file name="u242-74.png" crc="4152168169" ref="index"/>
+    <file name="u469-124.png" crc="3922022317" ref="index"/>
+    <file name="u543-134.png" crc="4026046502" ref="index"/>
+    <file name="u911-134.png" crc="134663944" ref="index"/>
+    <file name="u4779-74.png" crc="3871316756" ref="index"/>
+    <file name="u4150-114.png" crc="4246395320" ref="index"/>
+    <file name="u3404-44.png" crc="3928187735" ref="index"/>
+    <file name="u48314.png" crc="3829066601" ref="index"/>
+    <file name="u4831-r4.png" crc="220137049" ref="index"/>
+    <file name="u4837-44.png" crc="253766408" ref="index"/>
+    <file name="u4817-64.png" crc="4085483497" ref="index"/>
+    <file name="u48315.png" crc="3829066601" ref="index"/>
+    <file name="u4831-r5.png" crc="220137049" ref="index"/>
+    <file name="u4837-45.png" crc="253766408" ref="index"/>
+    <file name="u4817-65.png" crc="4085483497" ref="index"/>
+    <file name="u242-75.png" crc="4152168169" ref="index"/>
+    <file name="u469-125.png" crc="536670514" ref="index"/>
+    <file name="u543-135.png" crc="276229407" ref="index"/>
+    <file name="u911-135.png" crc="27347732" ref="index"/>
+    <file name="u4779-75.png" crc="4176688791" ref="index"/>
+    <file name="u4150-115.png" crc="3849079704" ref="index"/>
+    <file name="u3404-45.png" crc="3928187735" ref="index"/>
+    <file name="vsevkusi439x292.png" crc="75877130" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u242-76.png" crc="212958085" ref="index"/>
+    <file name="watermelon-crop-u16542.png" crc="3915583024" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="watermelon-crop-u988.png" crc="378773140" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u469-126.png" crc="4042095508" ref="index"/>
+    <file name="u543-136.png" crc="177801537" ref="index"/>
+    <file name="watermelon-crop-u495.png" crc="3927232798" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="watermelon-crop-u10042.png" crc="4157491444" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dulcetbake-crop-u998.png" crc="243230857" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dulcetbake-crop-u10076.png" crc="4291190480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frusavory cider-crop-u878.png" crc="522500173" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frusavory cider-crop-u10110.png" crc="89362064" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stawberry bubles-crop-u10177.png" crc="4289146969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u911-136.png" crc="4225997738" ref="index"/>
+    <file name="stawberry bubles-crop-u1008.png" crc="3787685861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4779-76.png" crc="3873502938" ref="index"/>
+    <file name="u4150-116.png" crc="120594762" ref="index"/>
+    <file name="u3404-46.png" crc="387302001" ref="index"/>
+    <file name="u48316.png" crc="3829066601" ref="index"/>
+    <file name="u4831-r6.png" crc="220137049" ref="index"/>
+    <file name="u4837-46.png" crc="253766408" ref="index"/>
+    <file name="u4817-66.png" crc="4085483497" ref="index"/>
+    <file name="u242-77.png" crc="532487291" ref="index"/>
+    <file name="watermelon-crop-u9882.png" crc="3870219749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="watermelon-crop-u165422.png" crc="3879369269" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u469-127.png" crc="6719696" ref="index"/>
+    <file name="watermelon-crop-u4952.png" crc="4047897132" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u543-137.png" crc="177801537" ref="index"/>
+    <file name="dulcetbake-crop-u100762.png" crc="343488595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="watermelon-crop-u100422.png" crc="4108560230" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dulcetbake-crop-u9982.png" crc="20650719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frusavory cider-crop-u8782.png" crc="3873401290" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frusavory cider-crop-u101102.png" crc="3983709095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u911-137.png" crc="470645948" ref="index"/>
+    <file name="stawberry bubles-crop-u101772.png" crc="4289146969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stawberry bubles-crop-u10082.png" crc="400856103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4779-77.png" crc="4125166431" ref="index"/>
+    <file name="u4150-117.png" crc="4226521315" ref="index"/>
+    <file name="u3404-47.png" crc="387302001" ref="index"/>
+    <file name="u48317.png" crc="3829066601" ref="index"/>
+    <file name="u4831-r7.png" crc="220137049" ref="index"/>
+    <file name="u4837-47.png" crc="4217431083" ref="index"/>
+    <file name="u4817-67.png" crc="277253960" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4223304364" seo="true" mt="1519210905986" redirect="true"/>
+</manifest>
